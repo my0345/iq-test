@@ -105,7 +105,7 @@ index.html Displays quiz interface style.css Handles layout and design script.js
 
 🧑‍💻 Author
 
-Your Name 📧 raaviprabhas5@gmail.com 💻 GitHub: Raavi-Sai-Prabhas 🌍 Project made with ❤ using pure web technologies.
+Your Name 📧 ykalyan2136@gmail.com💻 GitHub: naga bhavani kalyan  🌍 Project made with ❤ using pure web technologies.
 
 💬 Final Note
 
